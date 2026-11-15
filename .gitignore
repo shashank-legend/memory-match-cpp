@@ -1,0 +1,12 @@
+# Build output
+build/
+memory-match
+*.o
+*.d
+*.gch
+a.out
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
